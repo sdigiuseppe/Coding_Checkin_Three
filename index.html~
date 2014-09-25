@@ -1,0 +1,64 @@
+<!DOCTYPE HTML/>
+<html>
+
+<style>
+#wrapper {
+	margin: 0 auto;
+	width: 700px;
+	}
+	
+#content {
+	width: 100%;
+	}
+</style>
+
+<head>
+<title>
+
+<div id="wrapper">
+
+	<div id="content"> Content Here </div>
+</div>
+
+</title>
+
+
+<meta charset="utf-8" />
+</head>
+
+
+<body>
+
+
+
+</body>
+<p>
+Max
+
+<img src="puppy1.jpg" alt="Puppy1"/>
+</p>
+
+<p>
+Doug
+<img src="puppy2.jpg" alt="Puppy2"/>
+</p>
+
+<p>
+Daisy
+<img src="puppy3.jpg" alt="Puppy3"/>
+</p>
+
+<p>
+Charlie
+<img 
+</p>
+
+
+
+
+
+
+
+
+</body>
+</html>
